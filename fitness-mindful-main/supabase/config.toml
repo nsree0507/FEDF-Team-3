@@ -1,0 +1,7 @@
+project_id = "zmkcixjbtwtkiynwrxzp"
+
+[functions.analyze-meal]
+verify_jwt = false
+
+[functions.ai-coach]
+verify_jwt = false
