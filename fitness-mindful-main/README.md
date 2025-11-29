@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to your project
+
+![License](https://img.shields.io/badge/License-MIT%20%7C%20Apache%202.0-blue)
 
 ## Project info
 
@@ -10,7 +12,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/292d9b4b-0e10-48cd-af8e-22a66a6eee74) and start prompting.
+Simply visit the [Project](https://lovable.dev/projects/292d9b4b-0e10-48cd-af8e-22a66a6eee74) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +64,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/292d9b4b-0e10-48cd-af8e-22a66a6eee74) and click on Share -> Publish.
+Simply open (https://lovable.dev/projects/292d9b4b-0e10-48cd-af8e-22a66a6eee74) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
